@@ -1,0 +1,89 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="victoriasecret.cf" resolutions="1x" timestamp="1497634418828">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_4-______-______-a.css" crc="3861771818" ref="index"/>
+    <file name="nomq_preview_master_4-______-______-a.css" crc="4219624209" ref="index"/>
+    <file name="index.css" crc="4093282862" ref="index"/>
+    <file name="nomq_index.css" crc="3761398687" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u549.php" crc="296331784" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="_devushka_pesok.jpg" crc="127694971" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="142353993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01.jpg" crc="128025139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-crop-u787.jpg" crc="4175189815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03.jpg" crc="4125397887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_devushka_pesok-u94-fr.jpg" crc="4164599763" ref="index"/>
+    <file name="02-crop-u7872.jpg" crc="4175189815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-crop-u783.jpg" crc="4286009070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_devushka_pesok-u94-fr2.jpg" crc="86689532" ref="index"/>
+    <file name="01560x421.jpg" crc="204225577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-crop-u7873.jpg" crc="103052940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-crop-u7832.jpg" crc="3908966162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_devushka_pesok-u94-fr3.jpg" crc="189668577" ref="index"/>
+    <file name="01438x328.jpg" crc="212921364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-crop-u7874.jpg" crc="84237085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-crop-u7833.jpg" crc="3774978762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_devushka_pesok-u94-fr4.jpg" crc="125046837" ref="index"/>
+    <file name="01267x200.jpg" crc="368918015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-crop-u7875.jpg" crc="4223422846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-crop-u7834.jpg" crc="341279551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="485994375" seo="true" mt="1497634370791" redirect="true"/>
+</manifest>
