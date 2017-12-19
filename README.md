@@ -1,2 +1,4 @@
 # Oxana-s.github.io
-<p>test-2</p>
+"FIRST ДЕПОЗИТОРИЙ"
+
+Знакомство и тест сервиса GitHub.
